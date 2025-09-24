@@ -3,7 +3,8 @@
 # Required software
 - stow
 - gomplate *(or any other Go template capable software)*
-*Note: if Go templates are overkill, I'll switch to envsubst, the gomplate binary is 78MB, maybe heavy for configuring dotfiles, nice software though*
+
+*Note: if Go templates are overkill, I'll switch to envsubst, the gomplate binary is 78MB, a bit heavy for configuring dotfiles, nice software though*
 
 # Target OS / distro
 Designed for Linux (tested on Arch). Likely works on other distros and FreeBSD with minimal tweaks.
